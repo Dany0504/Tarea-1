@@ -1,0 +1,49 @@
+# Informe de correcciones
+
+## Herramienta usada
+- **LanguageTool (versión web, español)**  
+- Revisión manual complementaria para validar y decidir las correcciones más adecuadas.
+
+## Errores detectados en Manual v1.0
+
+| Palabra original | Tipo de error  | Corrección propuesta |
+|------------------|---------------|-----------------------|
+| Instalacion      | Ortografía    | Instalación           |
+| archibo          | Ortografía    | Archivo               |
+| pagina           | Gramática     | Página                |
+| Despues          | Ortografía    | Después               |
+| clickea          | Verbo/estilo  | Haga clic             |
+| instalacion      | Ortografía    | Instalación           |
+| este             | Gramática     | Esté                  |
+| probocar         | Ortografía    | Provocar              |
+| erros            | Ortografía    | Errores               |
+| secion           | Ortografía    | Sesión                |
+| deben            | Gramática     | Debe                  |
+| usario           | Ortografía    | Usuario               |
+| veses            | Ortografía    | Veces                 |
+
+
+
+## Ejemplos antes/después
+
+### Sección 1 - Instalación
+- **Antes:** "Despues, descomprima el archibo y clickea el setup.exe para iniciar la instalacion.  
+Nota: No cierre el programa mientras se este instalando porque puede probocar erros."  
+- **Después:** "Después, descomprima el archivo y haga clic en setup.exe para iniciar la instalación.  
+Nota: No cierre el programa mientras se esté instalando porque puede provocar errores."
+
+### Sección 2 - Inicio de sesión
+- **Antes:** "Cuando el sistema abre, el usuario deben ingresar su nombre de usario y clave.  
+Si el usario escribe mal la clave tres veses, el sistema se cierra automaticamente."  
+- **Después:** "Cuando el sistema abre, el usuario debe ingresar su nombre de usuario y su clave.  
+Si el usuario escribe mal la clave tres veces, el sistema se cierra automáticamente."
+
+## Justificación de decisiones
+- Se aceptaron todas las correcciones ortográficas y gramaticales porque mejoran la claridad y profesionalismo del manual.  
+- Las sugerencias relacionadas con estilo (ej. "clickea" → "haga clic") fueron aplicadas para mantener un lenguaje técnico y formal.   
+- Se rechazó la correccion de "v1.0" ya que esto no es un error ortográfico, solo indica la version del programa.
+
+## Conclusión
+- La integración de **LanguageTool** ayudó a identificar múltiples errores de ortografía y gramática.  
+- La revisión manual permitió decidir cuáles correcciones aplicar y cuáles no, aplicando un criterio crítico.  
+- El manual pasó de tener errores visibles a un documento más claro, profesional y fácil de entender.
